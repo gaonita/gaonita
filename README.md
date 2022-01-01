@@ -11,6 +11,7 @@
   
 
 ![gaonita's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaonita&show_icons=true&theme=cobalt)
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaonita&layout=compact&theme=cobalt&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
+ -->
